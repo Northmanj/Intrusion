@@ -22,9 +22,9 @@ DB_NAME = "ids_logs.db"
 ARCHIVE_DB = "archived_logs.db"
 ARCHIVE_DAYS = 7  # rotate logs older than this many days
 
-EMAIL_SENDER = "johngregory6400@gmail.com"
-EMAIL_PASSWORD = "wkzfpxbsjbuycpxo"
-EMAIL_RECEIVER = "johngregory6400@gmail.com"
+EMAIL_SENDER = "gregory@gmail.com"
+EMAIL_PASSWORD = "sjbuycpxo"
+EMAIL_RECEIVER = "gregory@gmail.com"
 
 ALARM_SOUND = "alarm.wav"
 

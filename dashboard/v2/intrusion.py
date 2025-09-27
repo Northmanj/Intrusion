@@ -42,9 +42,9 @@ def notify_wemos_slow():
         logging.error(f"[WEMOS ERROR] {e}")
 
 # ---------------- EMAIL SETTINGS ----------------
-EMAIL_SENDER = "johngregory6400@gmail.com"
-EMAIL_PASSWORD = "wkzfpxbsjbuycpxo"
-EMAIL_RECEIVER = "johngregory6400@gmail.com"
+EMAIL_SENDER = "gregory@gmail.com"
+EMAIL_PASSWORD = "reghjvbjeldc"
+EMAIL_RECEIVER = "gregory@gmail.com"
 
 # ---------------- ALARM SETTINGS ----------------
 ALARM_SOUND = "alarm.wav"

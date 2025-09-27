@@ -12,9 +12,9 @@ WEMOS_IP = "http://192.168.10.33"
 ALARM_SOUND = "alarm.wav"
 LOG_FILE = "intrusion_log.txt"
 
-EMAIL_SENDER = "johngregory6400@gmail.com"
-EMAIL_PASSWORD = "wkzfpxbsjbuycpxo"
-EMAIL_RECEIVER = "johngregory6400@gmail.com"
+EMAIL_SENDER = "gregory@gmail.com"
+EMAIL_PASSWORD = "jbuyjhsfjgcpxo"
+EMAIL_RECEIVER = "gregory@gmail.com"
 
 
 CLIP_DIR = "clips"

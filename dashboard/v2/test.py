@@ -21,9 +21,9 @@ WEMOS_IP = "http://192.168.10.33"
 
 # Email (fill these)
 
-EMAIL_SENDER = "johngregory6400@gmail.com"
-EMAIL_PASSWORD = "wkzfpxbsjbuycpxo"
-EMAIL_RECEIVER = "johngregory6400@gmail.com"
+EMAIL_SENDER = "gregory@gmail.com"
+EMAIL_PASSWORD = "sjbuycpxo"
+EMAIL_RECEIVER = "gregory@gmail.com"
 
 # Upload endpoint (optional) - server that accepts file uploads
 UPLOAD_URL = "http://192.168.1.100:5000/upload"  # set to None to disable upload
