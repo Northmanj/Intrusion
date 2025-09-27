@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Intrusion Dashboard</title>
+  <style>
+    body { font-family: Arial, sans-serif; background:#f4f4f4; margin:0; padding:20px; }
+    .navbar { background:#333; padding:10px; }
+    .navbar a { color:white; margin-right:15px; text-decoration:none; }
+    .container { margin-top:20px; }
+    .btn { background:#007BFF; color:white; padding:8px 12px; text-decoration:none; border-radius:5px; }
+    .btn:hover { background:#0056b3; }
+  </style>
+</head>
+<body>
+  <div class="navbar">
+    <a href="/">Dashboard</a>
+    <a href="/logs">Logs</a>
+    <a href="/clips">Clips</a>
+  </div>
+  <div class="container">
+    {% block content %}{% endblock %}
+  </div>
+</body>
+</html>
+

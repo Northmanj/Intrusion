@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Intrusion Dashboard</title>
+</head>
+<body>
+    <h1>Intrusion Control Dashboard</h1>
+
+    <!-- Python Controls -->
+    <h2>Python Script</h2>
+    <a href="/start-python">▶ Start Python Script</a> |
+    <a href="/stop-python">⏹ Stop Python Script</a> |
+    <a href="/download-logs">📥 Download Logs</a>
+
+    <!-- Wemos Controls -->
+    <h2>Wemos Controls</h2>
+    <a href="/led/on">💡 LED On</a> |
+    <a href="/led/off">💡 LED Off</a>
+    <form action="/servo/90"><button>Servo to 90°</button></form>
+    <form action="/servo/0"><button>Servo to 0°</button></form>
+
+    <!-- Logs -->
+    <h2>Recent Logs</h2>
+    <pre>{{ logs|join("") }}</pre>
+</body>
+</html>
+

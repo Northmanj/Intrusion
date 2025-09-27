@@ -33,7 +33,7 @@ ZONE2 = (150, 100, 300, 280) # Alert + record zone
 ZONE3 = (220, 160, 160, 160) # Alarm zone
 
 # Video settings
-VIDEO_DURATION = 10  # seconds
+VIDEO_DURATION = 30  # seconds
 FRAME_WIDTH = 640
 FRAME_HEIGHT = 480
 VIDEO_FOLDER = "motion_clips"

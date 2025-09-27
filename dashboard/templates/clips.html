@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Recorded Clips</h2>
+<ul>
+{% for clip in clips %}
+  <li><a href="{{ url_for('download_clip', filename=clip) }}">{{ clip }}</a></li>
+{% endfor %}
+</ul>
+{% endblock %}
+

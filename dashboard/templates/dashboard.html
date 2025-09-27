@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Intrusion Detection Dashboard</h2>
+<p>Status: <b>{{ status }}</b></p>
+
+<a href="{{ url_for('start_system') }}" class="btn">Start</a>
+<a href="{{ url_for('stop_system') }}" class="btn">Stop</a>
+
+<h3>Live Feed</h3>
+<img src="{{ url_for('video_feed') }}" width="640">
+{% endblock %}
+

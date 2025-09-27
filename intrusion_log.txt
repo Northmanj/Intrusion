@@ -1,0 +1,384 @@
+2025-09-17 08:46:22,479 - CRITICAL - [ERROR] Camera not available.
+2025-09-17 08:48:16,745 - CRITICAL - [ERROR] Camera not available.
+2025-09-17 08:48:20,512 - CRITICAL - [ERROR] Camera not available.
+2025-09-17 08:49:38,289 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /slow (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f2c70dc4130>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:49:38,289 - INFO - [STATE] Idle (no motion).
+2025-09-17 08:49:38,405 - INFO - [STATE] System ARMED (Zone 2).
+2025-09-17 08:49:39,311 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2c70dc48e0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-17 08:49:39,312 - INFO - [VIDEO] Recording clip: clips/motion_20250917_084939.avi
+2025-09-17 08:50:09,401 - INFO - [VIDEO] Clip saved.
+2025-09-17 08:50:11,471 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f2c70dc5030>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:50:11,472 - INFO - [VIDEO] Recording clip: clips/motion_20250917_085011.avi
+2025-09-17 08:50:41,527 - INFO - [VIDEO] Clip saved.
+2025-09-17 08:50:43,602 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f2c70dc5720>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:50:43,603 - INFO - [VIDEO] Recording clip: clips/motion_20250917_085043.avi
+2025-09-17 08:51:13,716 - INFO - [VIDEO] Clip saved.
+2025-09-17 08:51:15,796 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /slow (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f2c70dc5e40>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:51:15,797 - INFO - [STATE] Idle (no motion).
+2025-09-17 08:51:15,918 - INFO - [STATE] System ARMED (Zone 2).
+2025-09-17 08:51:17,923 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f2c70d73640>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:51:17,923 - INFO - [VIDEO] Recording clip: clips/motion_20250917_085117.avi
+2025-09-17 08:51:47,967 - INFO - [VIDEO] Clip saved.
+2025-09-17 08:51:50,050 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f2c70dc5e70>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:51:50,050 - INFO - [VIDEO] Recording clip: clips/motion_20250917_085150.avi
+2025-09-17 08:52:20,100 - INFO - [VIDEO] Clip saved.
+2025-09-17 08:52:22,175 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f2c70dc5750>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:52:22,176 - INFO - [VIDEO] Recording clip: clips/motion_20250917_085222.avi
+2025-09-17 08:54:49,223 - INFO - [STATE] System ARMED (Zone 2).
+2025-09-17 08:54:51,227 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f40fd0548e0>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:54:51,229 - INFO - [VIDEO] Recording clip: clips/motion_20250917_085451.avi
+2025-09-17 08:54:52,244 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f40fd0552a0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-17 08:54:52,245 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-17 08:54:52,245 - INFO - [VIDEO] Recording clip: clips/motion_20250917_085452.avi
+2025-09-17 08:54:53,785 - ERROR - [VIDEO ERROR] Frame capture failed.
+2025-09-17 08:54:53,788 - INFO - [VIDEO] Clip saved.
+2025-09-17 08:54:55,476 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f40fd055ba0>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:54:56,471 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f40fd0552a0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-17 08:54:57,671 - INFO - [EMAIL] Alert sent with video clip.
+2025-09-17 08:54:58,796 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f40fd0547f0>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:54:59,362 - ERROR - [VIDEO ERROR] Frame capture failed.
+2025-09-17 08:54:59,364 - INFO - [VIDEO] Clip saved.
+2025-09-17 08:55:14,123 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f40fd054970>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:55:15,149 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f40fd0565c0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-17 08:55:17,211 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f40fd056cb0>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:55:18,151 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f40fd0573a0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-17 08:55:20,296 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f40fd22fc10>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:55:21,325 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f40fd057040>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-17 08:55:21,326 - INFO - [VIDEO] Recording clip: clips/motion_20250917_085521.avi
+2025-09-17 08:55:23,815 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f40fd056710>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:55:26,935 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f40fd054c70>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:55:27,980 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f40fd0547c0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-17 08:55:27,981 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-17 08:55:30,119 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f40fd055060>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:55:31,155 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f40fd057ca0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-17 08:55:33,639 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f40fd057a00>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:55:34,701 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f40fd054d00>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-17 08:55:37,355 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f40fd054dc0>, 'Connection to 192.168.100.200 timed out. (connect timeout=2)'))
+2025-09-17 08:55:37,708 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.100.200', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f40fd0563b0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-17 08:55:40,711 - ERROR - [ERROR] Camera feed lost.
+2025-09-19 12:28:25,954 - CRITICAL - [ERROR] Camera not available.
+2025-09-19 12:29:07,510 - CRITICAL - [ERROR] Camera not available.
+2025-09-19 12:30:39,332 - INFO - [STATE] Auto-arming due to Zone 3.
+2025-09-19 12:30:39,417 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:30:39,418 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:30:39,421 - INFO - [VIDEO] Recording clip: clips/motion_20250919_123039.avi
+2025-09-19 12:30:40,847 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:30:40,848 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:30:40,902 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:30:40,902 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:30:41,154 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:30:41,155 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:30:41,562 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:30:41,563 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:30:43,100 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:30:43,100 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:31:02,873 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:02,874 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:31:03,491 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:03,492 - INFO - [VIDEO] Recording clip: clips/motion_20250919_123103.avi
+2025-09-19 12:31:03,791 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:04,230 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:04,398 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:04,875 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:04,875 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:31:06,143 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:06,448 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:06,448 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:31:06,885 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:06,885 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:31:07,419 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:07,420 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:31:07,792 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:08,054 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:08,054 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:31:08,729 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:09,807 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:09,808 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:31:09,975 - ERROR - [VIDEO ERROR] Frame capture failed.
+2025-09-19 12:31:09,979 - INFO - [VIDEO] Clip saved.
+2025-09-19 12:31:10,642 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:10,642 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:31:11,893 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:11,893 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:31:11,930 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:11,930 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:31:11,985 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:11,986 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:31:12,030 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:12,190 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:12,228 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:12,343 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:12,343 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:31:12,386 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:12,386 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:31:12,648 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:12,649 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:31:12,761 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:12,828 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:12,894 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:12,960 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:13,161 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:13,690 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:14,220 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:14,292 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:14,351 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:14,422 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:14,618 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:14,751 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:14,822 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:14,888 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:15,087 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:15,618 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:15,684 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:15,777 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:16,015 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:16,167 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:16,548 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:31:33,570 - INFO - [VIDEO] Clip saved.
+2025-09-19 12:31:46,664 - INFO - [WEMOS] Set to SLOW blink
+2025-09-19 12:31:46,664 - INFO - [STATE] Idle (no motion).
+2025-09-19 12:32:19,532 - INFO - [STATE] Auto-arming due to Zone 3.
+2025-09-19 12:32:19,568 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:32:19,569 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:32:19,569 - INFO - [VIDEO] Recording clip: clips/motion_20250919_123219.avi
+2025-09-19 12:32:19,771 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:32:19,771 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:32:19,812 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:32:19,812 - INFO - [VIDEO] Recording clip: clips/motion_20250919_123219.avi
+2025-09-19 12:32:20,384 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:32:20,384 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:32:20,477 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:32:21,410 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:32:21,410 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:32:21,818 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:32:21,818 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:32:24,275 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:32:27,883 - ERROR - [VIDEO ERROR] Frame capture failed.
+2025-09-19 12:32:27,884 - INFO - [VIDEO] Clip saved.
+2025-09-19 12:32:35,850 - ERROR - [ERROR] Camera feed lost.
+2025-09-19 12:33:29,419 - INFO - [STATE] System ARMED (Zone 2).
+2025-09-19 12:33:29,479 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:29,480 - INFO - [VIDEO] Recording clip: clips/motion_20250919_123329.avi
+2025-09-19 12:33:30,392 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:30,392 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:30,393 - INFO - [VIDEO] Recording clip: clips/motion_20250919_123330.avi
+2025-09-19 12:33:30,601 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:30,602 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:30,807 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:30,807 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:30,898 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:30,898 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:31,262 - ERROR - [VIDEO ERROR] Frame capture failed.
+2025-09-19 12:33:31,264 - INFO - [VIDEO] Clip saved.
+2025-09-19 12:33:31,422 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:31,422 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:31,726 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:31,727 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:31,930 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:32,023 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:32,442 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:32,442 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:32,487 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:32,487 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:32,959 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:33,018 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:33,018 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:33,365 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:33,679 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:33,748 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:33,883 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:33,883 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:33,947 - INFO - [EMAIL] Alert sent with video clip.
+2025-09-19 12:33:33,956 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:34,008 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:34,008 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:34,141 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:34,210 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:34,210 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:34,741 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:34,741 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:34,875 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:35,075 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:35,075 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:35,138 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:35,138 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:35,208 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:35,466 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:36,070 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:36,134 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:36,171 - ERROR - [VIDEO ERROR] Frame capture failed.
+2025-09-19 12:33:36,172 - INFO - [VIDEO] Clip saved.
+2025-09-19 12:33:36,199 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:36,266 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:36,266 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:36,331 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:36,331 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:36,400 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:36,400 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:36,466 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:36,466 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:36,534 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:36,667 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:36,866 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:36,926 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:36,997 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:37,064 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:37,065 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:37,128 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:37,198 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:37,261 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:37,328 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:37,328 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:37,404 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:37,404 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:37,461 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:37,462 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:37,530 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:37,531 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:37,595 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:37,595 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:37,734 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:37,804 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:37,804 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:37,863 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:37,863 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:38,129 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:38,199 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:38,332 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:38,333 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:38,396 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:38,396 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:38,456 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:38,456 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:38,532 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:38,601 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:38,656 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:38,996 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:38,996 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:39,126 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:39,126 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:39,191 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:39,255 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:39,384 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:39,384 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:33:39,523 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:39,786 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:33:39,786 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:34:10,066 - INFO - [WEMOS] Set to SLOW blink
+2025-09-19 12:34:10,067 - INFO - [STATE] Idle (no motion).
+2025-09-19 12:35:06,737 - INFO - [STATE] System ARMED (Zone 2).
+2025-09-19 12:35:06,763 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:35:06,764 - INFO - [VIDEO] Recording clip: clips/motion_20250919_123506.avi
+2025-09-19 12:35:07,223 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:35:07,224 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:35:07,224 - INFO - [VIDEO] Recording clip: clips/motion_20250919_123507.avi
+2025-09-19 12:35:14,623 - ERROR - [ERROR] Camera feed lost.
+2025-09-19 12:38:04,036 - INFO - [STATE] Auto-arming due to Zone 3.
+2025-09-19 12:38:04,137 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:38:04,137 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-19 12:38:04,139 - INFO - [VIDEO] Recording clip: clips/motion_20250919_123804.avi
+2025-09-19 12:38:04,546 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:38:04,549 - INFO - [VIDEO] Recording clip: clips/motion_20250919_123804.avi
+2025-09-19 12:38:04,582 - INFO - [WEMOS] Set to FAST blink
+2025-09-19 12:38:07,870 - ERROR - [VIDEO ERROR] Frame capture failed.
+2025-09-19 12:38:07,874 - INFO - [VIDEO] Clip saved.
+2025-09-19 12:38:11,718 - ERROR - [ERROR] Camera feed lost.
+2025-09-20 09:36:25,516 - CRITICAL - [ERROR] Camera not available.
+2025-09-20 09:37:23,171 - CRITICAL - [ERROR] Camera not available.
+2025-09-20 09:37:29,297 - CRITICAL - [ERROR] Camera not available.
+2025-09-20 09:38:01,762 - CRITICAL - [ERROR] Camera not available.
+2025-09-20 09:38:33,939 - CRITICAL - [ERROR] Camera not available.
+2025-09-21 20:44:44,011 - CRITICAL - [ERROR] Camera not available.
+2025-09-21 20:52:46,784 - CRITICAL - [ERROR] Camera not available.
+2025-09-21 20:53:00,856 - CRITICAL - [ERROR] Camera not available.
+2025-09-21 20:55:54,732 - CRITICAL - [ERROR] Camera not available.
+2025-09-21 20:55:57,981 - CRITICAL - [ERROR] Camera not available.
+2025-09-21 20:56:25,799 - INFO - [STATE] Auto-arming due to Zone 3.
+2025-09-21 20:56:27,808 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4ec3d3c9d0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-21 20:56:27,809 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-21 20:56:27,810 - INFO - [VIDEO] Recording clip: clips/motion_20250921_205627.avi
+2025-09-21 20:56:28,884 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4ec3d3d390>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-21 20:56:28,884 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-21 20:56:31,000 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4ec3d3da80>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-21 20:56:31,000 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-21 20:56:31,956 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4ec3d3e170>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-21 20:56:31,956 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-21 20:56:34,067 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4ec3d3e860>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-21 20:56:34,069 - INFO - [VIDEO] Recording clip: clips/motion_20250921_205634.avi
+2025-09-21 20:56:35,124 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4ec3d3e5c0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-21 20:56:38,333 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4ec3d3ded0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-21 20:56:38,333 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-21 20:56:40,464 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4ec3d3d7e0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-21 20:56:40,464 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-21 20:56:41,524 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4ec3d3d0f0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-21 20:56:41,524 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-21 20:56:44,868 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4ec3d3ca00>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-21 20:56:45,944 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4ec3d3f160>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-21 20:56:45,944 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-21 20:56:48,868 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4ec3f1bbb0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-21 20:56:48,868 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-21 20:57:53,093 - CRITICAL - [ERROR] Camera not available.
+2025-09-21 20:57:55,064 - CRITICAL - [ERROR] Camera not available.
+2025-09-21 20:58:12,793 - CRITICAL - [ERROR] Camera not available.
+2025-09-21 21:02:03,624 - CRITICAL - [ERROR] Camera not available.
+2025-09-21 21:02:51,882 - INFO - [STATE] System ARMED (Zone 2).
+2025-09-21 21:02:51,944 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:02:51,945 - INFO - [VIDEO] Recording clip: clips/motion_20250921_210251.avi
+2025-09-21 21:02:52,351 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:02:52,658 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:02:52,658 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-21 21:02:52,660 - INFO - [VIDEO] Recording clip: clips/motion_20250921_210252.avi
+2025-09-21 21:02:52,863 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:02:52,864 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-21 21:02:53,226 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:02:53,226 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-21 21:02:53,286 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:02:53,286 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-21 21:02:53,923 - ERROR - [ERROR] Camera feed lost.
+2025-09-21 21:02:53,928 - ERROR - [VIDEO ERROR] Frame capture failed.
+2025-09-21 21:03:13,978 - INFO - [STATE] System ARMED (Zone 2).
+2025-09-21 21:03:15,085 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:03:15,086 - INFO - [VIDEO] Recording clip: clips/motion_20250921_210315.avi
+2025-09-21 21:03:15,699 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:03:16,004 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:03:16,209 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:03:16,249 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:03:16,518 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:03:16,824 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:03:17,540 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:03:24,119 - ERROR - [ERROR] Camera feed lost.
+2025-09-21 21:03:24,123 - ERROR - [VIDEO ERROR] Frame capture failed.
+2025-09-21 21:03:24,124 - INFO - [VIDEO] Clip saved.
+2025-09-21 21:04:34,179 - INFO - [STATE] System ARMED (Zone 2).
+2025-09-21 21:04:34,233 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:04:34,233 - INFO - [VIDEO] Recording clip: clips/motion_20250921_210434.avi
+2025-09-21 21:04:34,273 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:04:34,327 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:04:34,402 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:04:34,458 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:04:36,087 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:04:38,312 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.10.33', port=80): Read timed out. (read timeout=2)
+2025-09-21 21:04:39,869 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:04:39,900 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:04:40,101 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:04:40,633 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:04:40,767 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:04:50,489 - ERROR - [ERROR] Camera feed lost.
+2025-09-21 21:38:00,506 - INFO - [STATE] System ARMED (Zone 2).
+2025-09-21 21:38:00,559 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:38:00,560 - INFO - [VIDEO] Recording clip: clips/motion_20250921_213800.avi
+2025-09-21 21:38:00,588 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:38:00,653 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:38:00,717 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:38:00,782 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:38:00,853 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:38:01,683 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:38:01,683 - WARNING - [ALARM] Alarm sound file not found!
+2025-09-21 21:38:01,683 - INFO - [VIDEO] Recording clip: clips/motion_20250921_213801.avi
+2025-09-21 21:38:02,092 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:38:02,297 - INFO - [WEMOS] Set to FAST blink
+2025-09-21 21:38:13,365 - ERROR - [VIDEO ERROR] Frame capture failed.
+2025-09-21 21:38:13,366 - INFO - [VIDEO] Clip saved.
+2025-09-21 21:38:15,225 - ERROR - [ERROR] Camera feed lost.
+2025-09-27 22:25:40,967 - CRITICAL - [ERROR] Camera not available.
+2025-09-27 22:25:56,981 - CRITICAL - [ERROR] Camera not available.

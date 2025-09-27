@@ -1,0 +1,324 @@
+2025-09-23 14:13:17,196 - CRITICAL - [ERROR] Camera not available.
+2025-09-23 14:15:02,119 - CRITICAL - [ERROR] Camera not available.
+2025-09-23 14:57:17,298 - CRITICAL - [ERROR] Camera not available.
+2025-09-23 14:57:50,162 - CRITICAL - [ERROR] Camera not available.
+2025-09-23 15:04:04,929 - CRITICAL - [ERROR] Camera not available.
+2025-09-23 15:04:16,637 - CRITICAL - [ERROR] Camera not available.
+2025-09-23 15:05:53,806 - CRITICAL - [ERROR] Camera not available.
+2025-09-23 15:06:47,266 - CRITICAL - [ERROR] Camera not available.
+2025-09-23 15:33:34,376 - INFO - Motion in Zone 2
+2025-09-23 15:33:36,380 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c0fd0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:33:36,547 - INFO - Motion in Zone 2
+2025-09-23 15:33:37,433 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c17b0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:33:37,482 - INFO - Motion in Zone 2
+2025-09-23 15:33:39,485 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c1ed0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:33:39,574 - INFO - Motion in Zone 2
+2025-09-23 15:33:40,537 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c1570>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:33:40,537 - INFO - Motion in Zone 2
+2025-09-23 15:33:42,544 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c0520>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:33:42,591 - INFO - Intruder entered Zone 3
+2025-09-23 15:33:43,609 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c25c0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:33:45,595 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-403ec628ff7sm4084045f8f.4 - gsmtp')
+2025-09-23 15:33:45,596 - INFO - Motion in Zone 2
+2025-09-23 15:33:46,681 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c2e90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:33:46,681 - INFO - Motion in Zone 2
+2025-09-23 15:33:48,690 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d786f820>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:33:48,739 - INFO - Intruder stayed 6.15 seconds in Zone 3
+2025-09-23 15:33:48,801 - INFO - Video saved: clips/intrusion_1758630828.avi
+2025-09-23 15:34:02,994 - INFO - Intruder entered Zone 3
+2025-09-23 15:34:04,998 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c2410>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:34:06,710 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-46e15d1610fsm60057915e9.7 - gsmtp')
+2025-09-23 15:34:06,711 - INFO - Motion in Zone 2
+2025-09-23 15:34:08,714 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c1030>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:34:08,715 - INFO - Motion in Zone 2
+2025-09-23 15:34:09,785 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c1db0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:34:09,827 - INFO - Motion in Zone 2
+2025-09-23 15:34:11,831 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c3640>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:34:11,873 - INFO - Intruder stayed 8.88 seconds in Zone 3
+2025-09-23 15:34:11,949 - INFO - Intruder entered Zone 3
+2025-09-23 15:34:12,350 - INFO - Video saved: clips/intrusion_1758630851.avi
+2025-09-23 15:34:12,857 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c3f70>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:34:14,782 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3ee074106f4sm23637097f8f.25 - gsmtp')
+2025-09-23 15:34:14,784 - INFO - Motion in Zone 2
+2025-09-23 15:34:16,791 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c3e80>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:34:16,829 - INFO - Intruder stayed 4.88 seconds in Zone 3
+2025-09-23 15:34:16,844 - INFO - Video saved: clips/intrusion_1758630856.avi
+2025-09-23 15:34:27,291 - INFO - Intruder entered Zone 3
+2025-09-23 15:34:29,297 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c1780>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:34:31,267 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4613ddc01e6sm274983085e9.18 - gsmtp')
+2025-09-23 15:34:31,269 - INFO - Motion in Zone 2
+2025-09-23 15:34:33,274 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c0520>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:34:33,274 - INFO - Motion in Zone 2
+2025-09-23 15:34:34,329 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c2620>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:34:34,370 - INFO - Intruder stayed 7.08 seconds in Zone 3
+2025-09-23 15:34:34,449 - INFO - Intruder entered Zone 3
+2025-09-23 15:34:34,738 - INFO - Video saved: clips/intrusion_1758630874.avi
+2025-09-23 15:34:36,453 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c23e0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:34:38,230 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3ee141e9cf7sm23217277f8f.12 - gsmtp')
+2025-09-23 15:34:38,231 - INFO - Motion in Zone 2
+2025-09-23 15:34:40,237 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d786f6a0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:34:40,278 - INFO - Intruder stayed 5.83 seconds in Zone 3
+2025-09-23 15:34:40,290 - INFO - Video saved: clips/intrusion_1758630880.avi
+2025-09-23 15:34:40,359 - INFO - Intruder entered Zone 3
+2025-09-23 15:34:41,309 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c2cb0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:34:41,395 - INFO - Intruder stayed 1.04 seconds in Zone 3
+2025-09-23 15:34:41,409 - INFO - Video saved: clips/intrusion_1758630881.avi
+2025-09-23 15:34:41,437 - INFO - Intruder entered Zone 3
+2025-09-23 15:34:43,440 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c2c50>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:34:45,296 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3f829e01a15sm12355068f8f.57 - gsmtp')
+2025-09-23 15:34:45,339 - INFO - Intruder stayed 3.90 seconds in Zone 3
+2025-09-23 15:34:45,349 - INFO - Video saved: clips/intrusion_1758630885.avi
+2025-09-23 15:34:45,616 - INFO - Intruder entered Zone 3
+2025-09-23 15:34:47,620 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c25c0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:34:47,656 - INFO - Intruder stayed 2.04 seconds in Zone 3
+2025-09-23 15:34:47,681 - INFO - Video saved: clips/intrusion_1758630887.avi
+2025-09-23 15:34:57,491 - INFO - Motion in Zone 2
+2025-09-23 15:34:59,495 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c03a0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:35:21,852 - INFO - Motion in Zone 2
+2025-09-23 15:35:23,857 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c3970>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:35:23,944 - INFO - Intruder entered Zone 3
+2025-09-23 15:35:24,921 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c15a0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:35:26,870 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-46e1d4cfd57sm31613285e9.5 - gsmtp')
+2025-09-23 15:35:26,871 - INFO - Motion in Zone 2
+2025-09-23 15:35:28,877 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d7724640>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:35:28,921 - INFO - Motion in Zone 2
+2025-09-23 15:35:29,944 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c3940>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:35:29,982 - INFO - Intruder stayed 6.04 seconds in Zone 3
+2025-09-23 15:35:31,347 - INFO - Video saved: clips/intrusion_1758630929.avi
+2025-09-23 15:35:49,336 - INFO - Motion in Zone 2
+2025-09-23 15:35:51,340 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c14e0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:35:51,377 - INFO - Motion in Zone 2
+2025-09-23 15:35:52,409 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c19f0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:35:52,410 - INFO - Motion in Zone 2
+2025-09-23 15:35:54,415 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c26b0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:35:54,457 - INFO - Intruder entered Zone 3
+2025-09-23 15:35:55,481 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c2c50>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:35:57,141 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-464f0aac271sm239836235e9.3 - gsmtp')
+2025-09-23 15:35:57,142 - INFO - Motion in Zone 2
+2025-09-23 15:35:59,145 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d7724040>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:35:59,145 - INFO - Motion in Zone 2
+2025-09-23 15:36:00,217 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c3250>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:36:00,217 - INFO - Motion in Zone 2
+2025-09-23 15:36:02,223 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c2fb0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:36:02,265 - INFO - Motion in Zone 2
+2025-09-23 15:36:03,288 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c1ff0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:36:03,289 - INFO - Motion in Zone 2
+2025-09-23 15:36:05,294 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c1000>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:36:05,294 - INFO - Motion in Zone 2
+2025-09-23 15:36:06,361 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c3400>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:36:06,400 - INFO - Motion in Zone 2
+2025-09-23 15:36:08,404 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c3ac0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:36:08,404 - INFO - Motion in Zone 2
+2025-09-23 15:36:09,433 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d7724400>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:36:09,434 - INFO - Motion in Zone 2
+2025-09-23 15:36:11,441 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c3cd0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:36:11,441 - INFO - Motion in Zone 2
+2025-09-23 15:36:12,505 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c3910>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:36:12,548 - INFO - Motion in Zone 2
+2025-09-23 15:36:14,552 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c2200>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:36:14,552 - INFO - Motion in Zone 2
+2025-09-23 15:36:15,576 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c2890>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:36:15,577 - INFO - Motion in Zone 2
+2025-09-23 15:36:17,579 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c2c80>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:36:17,579 - INFO - Motion in Zone 2
+2025-09-23 15:36:18,648 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c2f20>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:36:18,649 - INFO - Motion in Zone 2
+2025-09-23 15:36:20,652 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d786f430>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:36:20,691 - INFO - Motion in Zone 2
+2025-09-23 15:36:21,720 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c2fe0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:36:21,721 - INFO - Motion in Zone 2
+2025-09-23 15:36:23,724 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c27a0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:36:23,725 - INFO - Motion in Zone 2
+2025-09-23 15:36:24,792 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c2680>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:36:24,793 - INFO - Motion in Zone 2
+2025-09-23 15:36:26,796 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c29e0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:36:26,836 - INFO - Motion in Zone 2
+2025-09-23 15:36:27,864 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c1420>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:36:27,865 - INFO - Motion in Zone 2
+2025-09-23 15:36:29,868 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c1090>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:36:29,868 - INFO - Motion in Zone 2
+2025-09-23 15:36:30,937 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c3f70>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:36:30,938 - INFO - Motion in Zone 2
+2025-09-23 15:36:32,945 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c38b0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:36:32,990 - INFO - Motion in Zone 2
+2025-09-23 15:36:34,009 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c3ee0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:36:34,009 - INFO - Motion in Zone 2
+2025-09-23 15:36:36,015 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c0730>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:36:36,016 - INFO - Motion in Zone 2
+2025-09-23 15:36:37,081 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c2230>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:36:37,081 - INFO - Motion in Zone 2
+2025-09-23 15:36:39,085 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c2a40>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:36:39,131 - INFO - Motion in Zone 2
+2025-09-23 15:36:40,153 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c2380>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:36:40,154 - INFO - Motion in Zone 2
+2025-09-23 15:36:42,159 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c3370>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:36:42,160 - INFO - Motion in Zone 2
+2025-09-23 15:36:43,225 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c1c90>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:36:43,225 - INFO - Motion in Zone 2
+2025-09-23 15:36:45,229 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c2e00>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:36:45,273 - INFO - Motion in Zone 2
+2025-09-23 15:36:46,297 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f10d76c2290>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:36:46,297 - INFO - Motion in Zone 2
+2025-09-23 15:36:48,301 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f10d76c16c0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:36:48,301 - INFO - Motion in Zone 2
+2025-09-23 15:40:11,656 - INFO - Motion in Zone 2
+2025-09-23 15:40:13,659 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0934fd0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:40:19,555 - INFO - Intruder entered Zone 3
+2025-09-23 15:40:21,558 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d09357b0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:40:25,606 - INFO - Email sent with subject: Intrusion Alert - Zone 3
+2025-09-23 15:40:25,647 - INFO - Intruder stayed 6.09 seconds in Zone 3
+2025-09-23 15:40:25,801 - INFO - Motion in Zone 2
+2025-09-23 15:40:25,900 - INFO - Video saved: clips/intrusion_1758631225.avi
+2025-09-23 15:40:27,805 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0935210>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:40:28,386 - INFO - Motion in Zone 2
+2025-09-23 15:40:28,857 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0934490>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:41:18,103 - INFO - Intruder entered Zone 3
+2025-09-23 15:41:20,108 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0935f60>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:41:25,347 - INFO - Email sent with subject: Intrusion Alert - Zone 3
+2025-09-23 15:41:25,388 - INFO - Motion in Zone 2
+2025-09-23 15:41:27,392 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0936650>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:41:27,393 - INFO - Motion in Zone 2
+2025-09-23 15:41:28,441 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0936d70>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:41:28,441 - INFO - Motion in Zone 2
+2025-09-23 15:41:30,447 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0936980>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:41:30,490 - INFO - Motion in Zone 2
+2025-09-23 15:41:31,513 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0936260>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:41:31,513 - INFO - Motion in Zone 2
+2025-09-23 15:41:33,519 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0935ba0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:41:33,559 - INFO - Motion in Zone 2
+2025-09-23 15:41:34,585 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0935000>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:41:34,585 - INFO - Motion in Zone 2
+2025-09-23 15:41:36,589 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d09357b0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:41:36,629 - INFO - Motion in Zone 2
+2025-09-23 15:41:37,657 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0937490>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:41:37,658 - INFO - Motion in Zone 2
+2025-09-23 15:41:39,663 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0937b80>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:41:39,706 - INFO - Motion in Zone 2
+2025-09-23 15:41:40,729 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0937ac0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:41:40,770 - INFO - Motion in Zone 2
+2025-09-23 15:41:42,775 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d09373d0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:41:42,775 - INFO - Motion in Zone 2
+2025-09-23 15:41:43,801 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0934dc0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:41:43,843 - INFO - Motion in Zone 2
+2025-09-23 15:41:45,847 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d09346a0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:41:45,891 - INFO - Motion in Zone 2
+2025-09-23 15:41:46,873 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0935960>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:41:46,874 - INFO - Motion in Zone 2
+2025-09-23 15:41:48,880 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0936380>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:41:48,881 - INFO - Motion in Zone 2
+2025-09-23 15:41:49,945 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0936bf0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:41:49,946 - INFO - Motion in Zone 2
+2025-09-23 15:41:51,952 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0936bc0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:41:51,953 - INFO - Motion in Zone 2
+2025-09-23 15:41:53,017 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0936470>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:41:53,061 - INFO - Motion in Zone 2
+2025-09-23 15:41:55,065 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0935cc0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:41:55,065 - INFO - Motion in Zone 2
+2025-09-23 15:41:56,089 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0934790>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:41:56,090 - INFO - Motion in Zone 2
+2025-09-23 15:41:58,096 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d09358d0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:41:58,141 - INFO - Motion in Zone 2
+2025-09-23 15:41:59,161 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d09371f0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:41:59,162 - INFO - Motion in Zone 2
+2025-09-23 15:42:01,168 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0937d30>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:01,168 - INFO - Motion in Zone 2
+2025-09-23 15:42:02,233 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d09377c0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:02,233 - INFO - Motion in Zone 2
+2025-09-23 15:42:04,237 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d09355a0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:04,284 - INFO - Motion in Zone 2
+2025-09-23 15:42:05,305 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0935570>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:05,305 - INFO - Motion in Zone 2
+2025-09-23 15:42:07,312 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0936080>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:07,312 - INFO - Motion in Zone 2
+2025-09-23 15:42:08,377 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0936290>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:08,422 - INFO - Motion in Zone 2
+2025-09-23 15:42:10,426 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0936da0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:10,427 - INFO - Motion in Zone 2
+2025-09-23 15:42:11,449 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0937160>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:11,449 - INFO - Motion in Zone 2
+2025-09-23 15:42:13,455 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0936e60>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:13,456 - INFO - Motion in Zone 2
+2025-09-23 15:42:14,521 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0936560>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:14,521 - INFO - Motion in Zone 2
+2025-09-23 15:42:16,527 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0934fa0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:16,573 - INFO - Motion in Zone 2
+2025-09-23 15:42:17,593 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d09346a0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:17,594 - INFO - Motion in Zone 2
+2025-09-23 15:42:19,600 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0934dc0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:19,600 - INFO - Motion in Zone 2
+2025-09-23 15:42:20,665 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0937370>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:20,666 - INFO - Motion in Zone 2
+2025-09-23 15:42:22,671 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0937310>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:22,714 - INFO - Motion in Zone 2
+2025-09-23 15:42:23,737 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0937310>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:23,738 - INFO - Motion in Zone 2
+2025-09-23 15:42:25,744 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0937370>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:25,745 - INFO - Motion in Zone 2
+2025-09-23 15:42:26,809 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0934dc0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:26,809 - INFO - Motion in Zone 2
+2025-09-23 15:42:28,815 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d09346a0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:28,862 - INFO - Motion in Zone 2
+2025-09-23 15:42:29,881 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0934fa0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:29,882 - INFO - Motion in Zone 2
+2025-09-23 15:42:31,888 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0936560>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:31,888 - INFO - Motion in Zone 2
+2025-09-23 15:42:32,953 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0936aa0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:32,953 - INFO - Motion in Zone 2
+2025-09-23 15:42:34,960 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0936aa0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:35,003 - INFO - Motion in Zone 2
+2025-09-23 15:42:36,025 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0936470>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:36,026 - INFO - Motion in Zone 2
+2025-09-23 15:42:38,032 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0935cc0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:38,032 - INFO - Motion in Zone 2
+2025-09-23 15:42:39,097 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0937100>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:39,141 - INFO - Motion in Zone 2
+2025-09-23 15:42:41,145 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0935780>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:41,145 - INFO - Motion in Zone 2
+2025-09-23 15:42:42,169 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d09374f0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:42,211 - INFO - Motion in Zone 2
+2025-09-23 15:42:44,214 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0937e20>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:44,214 - INFO - Motion in Zone 2
+2025-09-23 15:42:45,241 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0937e20>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:45,288 - INFO - Motion in Zone 2
+2025-09-23 15:42:47,292 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d09374f0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:47,292 - INFO - Motion in Zone 2
+2025-09-23 15:42:48,313 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0935780>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:48,313 - INFO - Motion in Zone 2
+2025-09-23 15:42:50,320 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0937100>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:50,363 - INFO - Motion in Zone 2
+2025-09-23 15:42:51,385 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0935cc0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:51,386 - INFO - Motion in Zone 2
+2025-09-23 15:42:53,391 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0936470>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:53,434 - INFO - Motion in Zone 2
+2025-09-23 15:42:54,457 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0936aa0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:54,458 - INFO - Motion in Zone 2
+2025-09-23 15:42:56,465 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0936aa0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:56,505 - INFO - Motion in Zone 2
+2025-09-23 15:42:57,533 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d0936770>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:42:57,533 - INFO - Motion in Zone 2
+2025-09-23 15:42:59,537 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0936440>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:42:59,582 - INFO - Motion in Zone 2
+2025-09-23 15:43:00,601 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d09359f0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:43:00,602 - INFO - Motion in Zone 2
+2025-09-23 15:43:02,608 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0935360>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:43:02,609 - INFO - Motion in Zone 2
+2025-09-23 15:43:03,673 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f06d09372e0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-09-23 15:43:03,715 - INFO - Motion in Zone 2
+2025-09-23 15:43:05,717 - ERROR - Wemos request failed: HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f06d0937dc0>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 15:43:05,717 - INFO - Motion in Zone 2
+2025-09-23 16:39:33,277 - ERROR - Frame read failed in main loop.
+2025-09-23 16:44:24,504 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fcd1d25d660>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 16:44:24,512 - INFO - [SNAP] Saved snapshot snapshots/snapshot_1758635064.jpg
+2025-09-23 16:44:24,514 - INFO - [WORKER] Starting clip worker for zone 3
+2025-09-23 16:44:28,366 - INFO - [EMAIL] Sent: Intrusion Snapshot - Zone 3
+2025-09-23 16:44:29,552 - ERROR - [WORKER] failed to read post-frame
+2025-09-23 16:44:29,597 - INFO - [CLIP] Saved clips/intrusion_1758635069.avi (20 frames)
+2025-09-23 17:07:58,830 - CRITICAL - Camera not available. Exiting.
+2025-09-23 17:08:31,448 - ERROR - [WEMOS ERROR] HTTPConnectionPool(host='192.168.10.33', port=80): Max retries exceeded with url: /fast (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f5ab0555660>, 'Connection to 192.168.10.33 timed out. (connect timeout=2)'))
+2025-09-23 17:08:31,457 - INFO - [SNAP] Saved snapshot snapshots/snapshot_1758636511.jpg
+2025-09-23 17:08:31,461 - INFO - [WORKER] Starting clip worker for zone 3
+2025-09-23 17:08:32,810 - ERROR - [WORKER] failed to read post-frame
+2025-09-23 17:08:32,863 - INFO - [CLIP] Saved clips/intrusion_1758636512.avi (11 frames)
+2025-09-23 17:08:36,665 - INFO - [EMAIL] Sent: Intrusion Snapshot - Zone 3
+2025-09-23 17:09:02,894 - ERROR - [UPLOAD ERROR] HTTPConnectionPool(host='192.168.1.100', port=5000): Max retries exceeded with url: /upload (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f5ab0555d50>, 'Connection to 192.168.1.100 timed out. (connect timeout=30)'))
+2025-09-23 17:09:02,931 - INFO - [WORKER] Clip worker finished. uploaded=0 resp=
