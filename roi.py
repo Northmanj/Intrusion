@@ -14,9 +14,9 @@ import serial
 # ==========================
 # Email settings
 # ==========================
-EMAIL_SENDER = "johngregory6400@gmail.com"
-EMAIL_PASSWORD = "wkzfpxbsjbuycpxo"
-EMAIL_RECEIVER = "johngregory6400@gmail.com"
+EMAIL_SENDER = "gregory@gmail.com"
+EMAIL_PASSWORD = "wkzfpxb"
+EMAIL_RECEIVER = "gregory@gmail.com"
 
 # ==========================
 # Alarm & ROI settings

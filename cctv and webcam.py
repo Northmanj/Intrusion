@@ -20,9 +20,9 @@ CAMERA_URL = "rtsp://user:pass@192.168.1.100:554/Streaming/Channels/101"
 WEBCAM_INDEX = 0
 
 # Email settings
-EMAIL_SENDER = "johngregory6400@gmail.com"
-EMAIL_PASSWORD = "wkzfpxbsjbuycpxo"
-EMAIL_RECEIVER = "johngregory6400@gmail.com"
+EMAIL_SENDER = "gregory@gmail.com"
+EMAIL_PASSWORD = "ewjfjksdbfier"
+EMAIL_RECEIVER = "gregory@gmail.com"
 
 # Alarm settings
 ALARM_SOUND = "alarm.wav"
